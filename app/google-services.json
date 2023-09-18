@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259711126887",
+    "project_id": "neurosadhana",
+    "storage_bucket": "neurosadhana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259711126887:android:8469c6780a564e955cb3c2",
+        "android_client_info": {
+          "package_name": "com.example.neurosadhana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZA4J11pBRDk2MQebyEwHsgF5pOptQ2J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
